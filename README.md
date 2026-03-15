@@ -84,14 +84,6 @@
 </details>
 
 <details>
-  <summary>Free DOSE hit</summary>
-  <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details>
-
-<details>
 <summary>What can I do for you?</summary>
 <table style="border: none">
   <tr>
@@ -110,8 +102,8 @@ If you have any questions about web development, writing mistake-free documentat
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
+<blockquote>“A person who never made a mistake never tried anything new.”
+<br><strong>– Albert Einstein</strong></blockquote>
 
   </td>
   </tr>
