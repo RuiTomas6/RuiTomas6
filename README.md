@@ -11,7 +11,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
+      <img height="200" alt="Avatar Ruitomas6" src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" alt="Avatar Ruitomas6">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+World!+I'm+Tom%C3%A1s!;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
