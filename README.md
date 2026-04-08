@@ -3,9 +3,6 @@
 </p>
 
 <div align="center">
-
-<summary>Welcome To my profile!</summary>
-
 <br>
 <div>
   <div align=center>
