@@ -4,8 +4,6 @@
 
 <div align="center">
 
-
-<details>
 <summary>Welcome To my profile!</summary>
 
 <br>
